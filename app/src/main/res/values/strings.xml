@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="New">New</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+
+</resources>
